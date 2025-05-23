@@ -30,7 +30,6 @@ public class AirportConfigurationProperties {
         private Special special;
 
 
-
         public static class Special {
             private int limit;
             private int lowerPercent;
